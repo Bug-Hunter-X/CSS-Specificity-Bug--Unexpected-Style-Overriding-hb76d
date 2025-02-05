@@ -1,0 +1,4 @@
+To resolve this, you have two primary approaches:
+
+1. **Increase the specificity of the less specific selector**: In this case, add another class to the h2 element to increase its specificity. 
+2. **Use the `!important` flag (use cautiously)**: This should generally be avoided due to potential maintainability issues, but it can offer an immediate fix in some situations.
